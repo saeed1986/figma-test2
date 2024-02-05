@@ -1,0 +1,28 @@
+/**
+ * Do not edit directly
+ * Generated on Mon, 05 Feb 2024 14:41:42 GMT
+ */
+
+:root {
+  --sd-color-base-gray-light: #cccccc;
+  --sd-color-base-gray-medium: #999999;
+  --sd-color-base-gray-dark: #111111;
+  --sd-color-base-red: #ff0000;
+  --sd-color-base-green: #00ff00;
+  --sd-color-font-base: #ff0000;
+  --sd-color-font-secondary: #00ff00;
+  --sd-color-font-tertiary: #cccccc;
+  --sd-size-font-small: 0.75rem; /* the small size of the font */
+  --sd-size-font-medium: 1rem; /* the medium size of the font */
+  --sd-size-font-large: 2rem; /* the large size of the font */
+  --sd-size-font-base: 1rem; /* the base size of the font */
+  --sd-global-sm: 4;
+  --sd-global-red-100: #f00;
+  --sd-global-green-100: #00972d;
+  --sd-global-blue-100: #0028ff;
+  --sd-collection-1-mode-1-orange: #f68b27;
+  --sd-collection-1-mode-1-color: #ffffff;
+  --sd-collection-1-mode-1-green-100: #2d890d;
+  --sd-collection-1-mode-1-blue-100: #2d69c2;
+  --sd-collection-1-mode-1-red-100: #ff1616;
+}
