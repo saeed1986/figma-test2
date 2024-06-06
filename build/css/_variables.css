@@ -19,10 +19,15 @@
   --sd-global-sm: 4;
   --sd-global-red-100: #f00;
   --sd-global-green-100: #8d9600;
-  --sd-global-blue-100: #0000FF;
+  --sd-global-blue-100: #0000ff;
   --sd-collection-1-mode-1-orange: #f68b27;
   --sd-collection-1-mode-1-color: #ffffff;
   --sd-collection-1-mode-1-green-100: #2d890d;
   --sd-collection-1-mode-1-blue-100: #2d69c2;
   --sd-collection-1-mode-1-red-100: #ff1616;
+  /* customized Colors in Collection1 */
+  --collection1-red_100: #ee0000;
+  --collection1-white_100: #ffffff;
+  --collection1-purple_100: #c300c3;
+  --collection1-black_100: #292929;
 }
